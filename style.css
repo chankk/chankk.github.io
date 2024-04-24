@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 3rem auto;
+    padding: 0 1rem;
+    max-width: 40rem;
+    line-height: 1.6;
+    font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2;
+}
